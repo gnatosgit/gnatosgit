@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Gnatos Studio Dentistico &#8211; Dentista a Verona</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Gnatologia</description>
+	<lastBuildDate>Wed, 01 Mar 2017 13:19:52 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<item>
+		<title>Emergenza Dentale a Verona</title>
+		<link>/emergenza-dentale-a-verona/</link>
+		<pubDate>Sat, 03 Jan 2015 11:31:24 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=791</guid>
+		<description><![CDATA[Fra le emergenze dentali piu&#8217; comuni: Dente rotto Ascesso con gonfiore del viso, guance, collo Dolore molto forte e pulsante in zona dentale Trauma dentale (botte da caduta, colluttazioni ecc) Se cercate un dentista per emergenze a verona, chiamate pure il numero di telefono indicato in alto a destra su questa pagina, e cercheremo di [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Fra le emergenze dentali piu&#8217; comuni:</p>
+<ul>
+<li>Dente rotto</li>
+<li>Ascesso con gonfiore del viso, guance, collo</li>
+<li>Dolore molto forte e pulsante in zona dentale</li>
+<li>Trauma dentale (botte da caduta, colluttazioni ecc)</li>
+</ul>
+<p>Se cercate un dentista per emergenze a verona, chiamate pure il numero di telefono indicato in alto a destra su questa pagina, e cercheremo di fare il possibile per vedervi in giornata o nel piu&#8217; breve tempo possibile, con un occhio di riguardo sia per la prevenzione di complicazioni che per la riduzione quanto piu&#8217; veloce del dolore</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
