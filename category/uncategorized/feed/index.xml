@@ -9,22 +9,22 @@
 
 <channel>
 	<title>Uncategorized &#8211; Gnatos Studio Dentistico &#8211; Dentista a Verona</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Gnatologia</description>
-	<lastBuildDate>Wed, 01 Mar 2017 13:19:52 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 24 Dec 2017 09:31:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.2</generator>
+	<generator>https://wordpress.org/?v=4.9.1</generator>
 	<item>
 		<title>Emergenza Dentale a Verona</title>
-		<link>/emergenza-dentale-a-verona/</link>
+		<link>./../../../emergenza-dentale-a-verona/index.html</link>
 		<pubDate>Sat, 03 Jan 2015 11:31:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">/?p=791</guid>
+		<guid isPermaLink="false">./../../../index.html?p=791</guid>
 		<description><![CDATA[Fra le emergenze dentali piu&#8217; comuni: Dente rotto Ascesso con gonfiore del viso, guance, collo Dolore molto forte e pulsante in zona dentale Trauma dentale (botte da caduta, colluttazioni ecc) Se cercate un dentista per emergenze a verona, chiamate pure il numero di telefono indicato in alto a destra su questa pagina, e cercheremo di [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Fra le emergenze dentali piu&#8217; comuni:</p>
 <ul>
@@ -33,7 +33,13 @@
 <li>Dolore molto forte e pulsante in zona dentale</li>
 <li>Trauma dentale (botte da caduta, colluttazioni ecc)</li>
 </ul>
-<p>Se cercate un dentista per emergenze a verona, chiamate pure il numero di telefono indicato in alto a destra su questa pagina, e cercheremo di fare il possibile per vedervi in giornata o nel piu&#8217; breve tempo possibile, con un occhio di riguardo sia per la prevenzione di complicazioni che per la riduzione quanto piu&#8217; veloce del dolore</p>
+<p>Se cercate un dentista per emergenze a verona, chiamate pure il numero di telefono indicato in alto a destra su questa pagina, e cercheremo di fare il possibile per vedervi in giornata o nel piu&#8217; breve tempo possibile, con un occhio di riguardo sia per la prevenzione di complicazioni che per la riduzione quanto piu&#8217; veloce del dolore.<br />
+<!-- Start shortcoder --><form method="POST" action="https://enformed.io/hrwu515r">
+<input name="email" placeholder="La sua email" type="email"><br><br>
+<input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
+<textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
+<button type="submit">Invia</button>
+</form> <p></p><!-- End shortcoder v4.1.4--></p>
 ]]></content:encoded>
 			</item>
 	</channel>
