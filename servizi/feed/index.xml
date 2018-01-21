@@ -9,21 +9,21 @@
 
 <channel>
 	<title>Servizi &#8211; Gnatos Studio Dentistico &#8211; Dentista a Verona</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="/servizi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Gnatologia</description>
-	<lastBuildDate>Sun, 24 Dec 2017 09:31:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 21 Jan 2018 08:52:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.1</generator>
+	<generator>https://wordpress.org/?v=4.9.2</generator>
 	<item>
 		<title>Implantologia &#8211; Impianti Dentali a Verona</title>
-		<link>./../implantologia/index.html</link>
+		<link>/servizi/implantologia/</link>
 		<pubDate>Mon, 03 Aug 2015 07:32:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
-		<guid isPermaLink="false">./../../index.html?post_type=services&#038;p=810</guid>
+		<guid isPermaLink="false">/?post_type=services&#038;p=810</guid>
 		<description><![CDATA[Nel nostro studio offriamo implantologia con materiali di alta qualita' e certificazione europea ed italiana, tecniche chirurgiche poco invasive ed un orecchio attento alle esigenze ed aspettative dei nostri pazienti]]></description>
 				<content:encoded><![CDATA[<p>Il nostro servizio di implantologia dentale consiste in una <strong>visita molto accurata</strong>, avvalendosi di radiografie panoramiche e di TAC, ed un piano di trattamento mirato a risolvere i più comuni problemi di edentulia, utilizzando la ormai provata e molto efficace tecnica di implantologia osteointegrata.</p>
 <p>Gli impianti sono da molti anni una delle piu&#8217; durature e predicibili procedure in odontoiatria, e permettono di &#8220;sostituire&#8221; in maniera rapida ed efficace le radici di denti che sono stati estratti o persi durante la vita.</p>
@@ -57,11 +57,11 @@ Allo 045-597936 <strong>puo&#8217; prenotare gia&#8217; ora</strong> una visita 
 			</item>
 		<item>
 		<title>Dentiere &#8211; Protesi Mobile</title>
-		<link>./../dentiere-protesi-mobile/index.html</link>
+		<link>/servizi/dentiere-protesi-mobile/</link>
 		<pubDate>Wed, 05 Mar 2014 21:42:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
-		<guid isPermaLink="false">./../../index.html?post_type=services&#038;p=714</guid>
+		<guid isPermaLink="false">/?post_type=services&#038;p=714</guid>
 		<description><![CDATA[Il nostro servizio di protesi mobile (dentiere) consiste nella manutenzione, miglioramento, e creazione ex-novo delle cosiddette dentiere, ovvero protesi liberamente rimovibili dal paziente e generalmente supportate solo da mucose o agganciate a denti rimanenti. La protesi mobile è un&#8217;arte che richiede elevata esperienza in campo gnatologico ed occlusale, in quanto un buon risultato in termini [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Il nostro servizio di protesi mobile (dentiere) consiste nella manutenzione, miglioramento, e creazione ex-novo delle cosiddette dentiere, ovvero protesi liberamente rimovibili dal paziente e generalmente supportate solo da mucose o agganciate a denti rimanenti.</p>
 <p>La protesi mobile è un&#8217;arte che richiede <strong>elevata esperienza in campo gnatologico ed occlusale</strong>, in quanto un buon risultato in termini di comfort, facilità di masticazione e stabilità dipende in gran parte da una corretta distribuzione delle forze masticatorie.<br />
@@ -97,11 +97,11 @@ Essendo uno studio gnatologico, possiamo estendere la nostra conoscenza dell&#82
 			</item>
 		<item>
 		<title>Estetica Dentale</title>
-		<link>./../estetica-dentale/index.html</link>
+		<link>/servizi/estetica-dentale/</link>
 		<pubDate>Wed, 05 Feb 2014 19:22:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
-		<guid isPermaLink="false">./../../index.html?post_type=services&#038;p=595</guid>
+		<guid isPermaLink="false">/?post_type=services&#038;p=595</guid>
 		<description><![CDATA[Il nostro servizio di estetica dentale è un moderno ed efficace sistema designato per chi vuole migliorare l&#8217;estetica del proprio sorriso. Affidandosi al nostro programma, ricevera&#8217; un dettagliato esame della Sua bocca, ed un piano di trattamento esaustivo dove discuteremo insieme tutto quello che vorrebbe perfezionare. Benefici per Lei Aumento dell&#8217;autostima e sicurezza di sé [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Il nostro servizio di estetica dentale è un moderno ed efficace sistema designato <strong>per chi vuole migliorare l&#8217;estetica del proprio sorriso</strong>.</p>
 <p>Affidandosi al nostro programma, ricevera&#8217; un dettagliato esame della Sua bocca, ed un piano di trattamento esaustivo dove discuteremo insieme tutto quello che vorrebbe perfezionare.</p>
@@ -143,11 +143,11 @@ Essendo uno studio gnatologico, possiamo estendere la nostra conoscenza dell&#82
 			</item>
 		<item>
 		<title>Pulizia dei Denti a Verona &#8211; Detartrasi &#8211; Igiene Dentale</title>
-		<link>./../pulizia-dei-denti-verona-detartrasi/index.html</link>
+		<link>/servizi/pulizia-dei-denti-verona-detartrasi/</link>
 		<pubDate>Wed, 20 Nov 2013 17:27:08 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
-		<guid isPermaLink="false">./../../index.html?post_type=services&#038;p=541</guid>
+		<guid isPermaLink="false">/?post_type=services&#038;p=541</guid>
 		<description><![CDATA[L&#8217;Associazione Nazionale Dentisti Italiani (ANDI) raccomanda una pulizia dei denti ogni sei mesi per mantenere un livello di igiene orale ottimale: i denti della maggior parte dei pazienti, infatti, tendono ad accumulare con il tempo il tartaro, ovvero un complesso biofilm batterico ricco di sostanze calcificate e di consistenza troppo dura per essere eliminato con [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>L&#8217;Associazione Nazionale Dentisti Italiani (ANDI) raccomanda una pulizia dei denti ogni sei mesi per mantenere un livello di igiene orale ottimale: i denti della maggior parte dei pazienti, infatti, tendono ad accumulare con il tempo il tartaro, ovvero un complesso biofilm batterico ricco di sostanze calcificate e di consistenza troppo dura per essere eliminato con l&#8217;uso dello spazzolino.</p>
 <p>L&#8217;igiene professionale è la più basilare delle necessità odontoiatriche, in quanto permette al vostro dentista di intercettare eventuali problemi in corso (come carie o malattia parodontale &#8211; la cosiddetta <em>piorrea</em>) prima che abbiano un eccessivo effetto deleterio sulle strutture dentali.</p>
@@ -166,11 +166,11 @@ Inoltre, intercettare un problema in fase iniziale comporta un dispendio anche e
 			</item>
 		<item>
 		<title>Apparecchio Trasparente &#8211; Verona</title>
-		<link>./../apparecchio-trasparente/index.html</link>
+		<link>/servizi/apparecchio-trasparente/</link>
 		<pubDate>Tue, 12 Nov 2013 11:10:48 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
-		<guid isPermaLink="false">./../../index.html?post_type=services&#038;p=535</guid>
+		<guid isPermaLink="false">/?post_type=services&#038;p=535</guid>
 		<description><![CDATA[Fra le parti del nostro corpo che piu&#8217; vengono notate dai nostri interlocutori vi è senza dubbio il sorriso, e in particolar modo i nostri denti detti &#8220;social six&#8221;, ovvero da canino a canino, in quanto sono i denti che maggiormente influenzano l&#8217;aspetto e l&#8217;estetica della nostra bocca. Una delle opzioni piu&#8217; efficaci, conservative e [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Fra le parti del nostro corpo che piu&#8217; vengono notate dai nostri interlocutori vi è senza dubbio il sorriso, e in particolar modo i nostri denti detti &#8220;social six&#8221;, ovvero da canino a canino, in quanto sono i denti che maggiormente influenzano l&#8217;aspetto e l&#8217;estetica della nostra bocca.</p>
 <p>Una delle opzioni piu&#8217; efficaci, conservative e semplici per migliorare i propri denti anteriori e&#8217; una terapia ortodontica fissa (con l&#8217;utilizzo dell&#8217;apparecchio classico): tuttavia i tempi relativamente lunghi e l&#8217;aspetto esteriore dell&#8217;apparecchio sono considerati da alcuni pazienti un ostacolo scomodo al raggiungimento dei propri obiettivi estetici.</p>
@@ -188,11 +188,11 @@ Inoltre, intercettare un problema in fase iniziale comporta un dispendio anche e
 			</item>
 		<item>
 		<title>Ortodonzia Verona &#8211; Apparecchi</title>
-		<link>./../ortodonzia-apparecchi/index.html</link>
+		<link>/servizi/ortodonzia-apparecchi/</link>
 		<pubDate>Mon, 29 Apr 2013 18:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
-		<guid isPermaLink="false">./../../index.html?post_type=services&#038;p=523</guid>
+		<guid isPermaLink="false">/?post_type=services&#038;p=523</guid>
 		<description><![CDATA[Sia che si tratti di bambini o adolescenti, sia che si tratti di adulti, il nostro studio fornisce prestazioni di ortodonzia fissa ed intercettiva all&#8217;avanguardia. Il periodo di dentizione mista, in cui sono presenti sia denti decidui sia permanenti, è di solito inquadrato fra i 6 e i 13 anni, ed è il periodo di [&#8230;]]]></description>
 				<content:encoded><![CDATA[<p>Sia che si tratti di bambini o adolescenti, sia che si tratti di adulti, il nostro studio fornisce prestazioni di ortodonzia fissa ed intercettiva all&#8217;avanguardia.</p>
 <p>Il periodo di dentizione mista, in cui sono presenti sia denti decidui sia permanenti, è di solito inquadrato fra i 6 e i 13 anni, ed è il periodo di <strong>massimo sviluppo di problemi di igiene e di eruzione</strong>: una supervisione durante la permuta può prevenire problemi di occlusione prima che si manifestino e rendere molto più semplice un successivo intervento ortodontico (per &#8220;raddrizzare&#8221; i denti), oltre che accompagnare lo sviluppo scheletrico del viso per ottenere una funzionalità ed estetica migliore.</p>
@@ -219,7 +219,7 @@ Nel nostro studio ci avvaliamo di brackets di ultima generazione (detti self-lig
 </div>
 </div>
 <p>L&#8217;estetica va spesso di pari passo con una più corretta funzionalità masticatoria (non a caso la &#8220;bellezza&#8221; di una persona è sostanzialmente, in natura, un indice della sua salute), pertanto una terapia ortodontica è un percorso che spesso cambia notevolmente in meglio la vita dei nostri pazienti, seppur richieda molta collaborazione.</p>
-<p>Laddove possibile, offriamo per gli adulti anche i famosi <strong>&#8220;<a title="Apparecchio Trasparente Invisalign – Verona" href="./../apparecchio-trasparente-invisalign-verona/index.html">apparecchi invisibili</a>&#8220;</strong>, che sono comunque utilizzabili solo in alcuni tipi di pazienti.<br />
+<p>Laddove possibile, offriamo per gli adulti anche i famosi <strong>&#8220;<a title="Apparecchio Trasparente Invisalign – Verona" href="/servizi/apparecchio-trasparente-invisalign-verona/">apparecchi invisibili</a>&#8220;</strong>, che sono comunque utilizzabili solo in alcuni tipi di pazienti.<br />
 Per sapere cos&#8217;è possibile fare nel Suo caso, è sufficiente richiedere una visita e saremo lieti di studiare il Suo caso a fondo per darLe una stima dei tempi di lavoro, dei risultati ottenibili, e delle diverse opzioni che potra&#8217; scegliere.</p>
 <h3>Ci Contatti Subito</h3>
 <!-- Start shortcoder --><form method="POST" action="https://enformed.io/hrwu515r">
@@ -232,11 +232,11 @@ Per sapere cos&#8217;è possibile fare nel Suo caso, è sufficiente richiedere u
 			</item>
 		<item>
 		<title>Otturazioni e Devitalizzazioni</title>
-		<link>./../otturazioni-e-devitalizzazioni/index.html</link>
+		<link>/servizi/otturazioni-e-devitalizzazioni/</link>
 		<pubDate>Fri, 29 Mar 2013 12:43:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
-		<guid isPermaLink="false">./../../index.html?post_type=services&#038;p=483</guid>
+		<guid isPermaLink="false">/?post_type=services&#038;p=483</guid>
 		<description><![CDATA[&#160; Oltre naturalmente ai nostri servizi specialistici, il nostro studio offre tutti i servizi che ci si aspetta da uno studio dentistico classico: otturazioni in amalgama (argentate) otturazioni in resina composita (bianche) devitalizzazioni (endodonzia) visite odontoiatriche pulizie professionali agli ultrasuoni trattamenti al fluoro Anche in questi ambiti operiamo con la stessa cura e passione che [&#8230;]]]></description>
 				<content:encoded><![CDATA[<div style="clear: both;">&nbsp;</div>
 <p>Oltre naturalmente ai nostri servizi specialistici, il nostro studio offre tutti i servizi che ci si aspetta da uno studio dentistico classico:</p>
@@ -263,7 +263,7 @@ Per sapere cos&#8217;è possibile fare nel Suo caso, è sufficiente richiedere u
 			</item>
 		<item>
 		<title>Odontoiatria per Bambini</title>
-		<link>./../bambini/index.html</link>
+		<link>/servizi/bambini/</link>
 		<pubDate>Sat, 02 Mar 2013 15:42:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
@@ -299,7 +299,7 @@ Per sapere cos&#8217;è possibile fare nel Suo caso, è sufficiente richiedere u
 			</item>
 		<item>
 		<title>Gnatologo &#8211; Mal di Testa &#8211; Gnatologia</title>
-		<link>./../gnatologia/index.html</link>
+		<link>/servizi/gnatologia/</link>
 		<pubDate>Wed, 22 Feb 2012 14:59:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
@@ -340,7 +340,7 @@ Siamo uno studio gnatologico, e pertanto questo servizio è senza dubbio uno dei
 			</item>
 		<item>
 		<title>Riabilitazione Protesica &#8211; Ponti e Corone</title>
-		<link>./../ponti-e-corone/index.html</link>
+		<link>/servizi/ponti-e-corone/</link>
 		<pubDate>Wed, 22 Feb 2012 14:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		
@@ -354,7 +354,7 @@ conoscere a fondo i principi dell&#8217;occlusione dentale e della gnatologia.</
 <p>Quando questo processo non è svolto con particolare attenzione all&#8217;articolazione e alla muscolatura del paziente, il risultato può essere una protesi scomoda ed innaturale, che costringe la nostra bocca a chiudere in una posizione non rilassante per la muscolatura.</p>
 <p>Questo fattore di disturbo può facilitare lo sviluppo di problemi all&#8217;articolazione temporo-mandibolare, tipicamente preceduti da <strong>cefalee e cervicalgie</strong>, o associati a rumori di <strong>click </strong>all&#8217;articolazione.</p>
 <h2>Riabilitazione secondo i Principi Gnatologici</h2>
-<p><a href="/wp-content/uploads/2012/02/ponte-superiore.jpg"><img class="alignright size-medium wp-image-423" src="/wp-content/uploads/2012/02/ponte-superiore-212x300.jpg" alt="Ponte Superiore" width="212" height="300" srcset="./../../wp-content/uploads/2012/02/ponte-superiore-212x300.jpg 212w, ./../../wp-content/uploads/2012/02/ponte-superiore.jpg 234w" sizes="(max-width: 212px) 100vw, 212px" /></a></p>
+<p><a href="/wp-content/uploads/2012/02/ponte-superiore.jpg"><img class="alignright size-medium wp-image-423" src="/wp-content/uploads/2012/02/ponte-superiore-212x300.jpg" alt="Ponte Superiore" width="212" height="300" srcset="/wp-content/uploads/2012/02/ponte-superiore-212x300.jpg 212w, /wp-content/uploads/2012/02/ponte-superiore.jpg 234w" sizes="(max-width: 212px) 100vw, 212px" /></a></p>
 <p>Grazie alla nostra vasta conoscenza gnatologica (il nostro punto di forza), e all&#8217;esperienza ventennale nel trattamento protesico, sia da parte nostra che del nostro laboratorio tecnico, possiamo offrire un servizio di riabilitazione protesica che segua i migliori principi gnatologici, fornendo un risultato non solo esteticamente perfetto, ma anche una funzionalità ottimale per muscoli masticatori, articolazione ed usura dentale.</p>
 <p>Le nostre protesi sono create a mano (e non stampate con tecnologia CAM) ed eventualmente ritoccate in bocca in quanto crediamo di poter offrire un risultato estetico migliore e di poter controllare meglio le cuspidi dentali per fornire una superficie di masticazione ottimale.</p>
 <p>Ogni nostro ponte è <strong>accuratamente controllato</strong> in tutti i passaggi di prova e produzione, il colore controllato prima della glassatura (con piccole modifiche apportabili se il paziente non è ancora soddisfatto dell&#8217;estetica) e l&#8217;igiene quotidiana è facilitata dalla presenza di uno spazio di pochi millimetri fra un elemento dentario e l&#8217;altro per permettere un passaggio agevole dello scovolino.</p>
