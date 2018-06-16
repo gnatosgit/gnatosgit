@@ -12,11 +12,11 @@
 	<atom:link href="/servizi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Gnatologia</description>
-	<lastBuildDate>Sun, 21 Jan 2018 08:52:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Jun 2018 06:45:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.2</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
 		<title>Implantologia &#8211; Impianti Dentali a Verona</title>
 		<link>/servizi/implantologia/</link>
@@ -41,7 +41,7 @@
 Allo 045-597936 <strong>puo&#8217; prenotare gia&#8217; ora</strong> una visita ed avere un appuntamento in 5 minuti: in questo appuntamento valuteremo le Sue esigenze ed aspettative, oltre all&#8217;aspetto clinico, e decideremo insieme la soluzione migliore.</p>
 <h2>Benefici per Lei</h2>
 <ul>
-<li>Tecnica chirurgica micro-invasiva (fastidio post-operatorio molto ridotto)</li>
+<li>Tecnica chirurgica computer-assistita (visualizzeremo insieme il Suo impianto con una riproduzione in 3D della sua TAC)</li>
 <li>Materiali di altissima qualita&#8217;</li>
 <li>Un occhio di riguardo per l&#8217;aspetto gnatologico e masticatorio: i Suoi denti saranno &#8220;confortevoli&#8221; e la sensazione sara&#8217; di masticare in maniera molto efficace e comoda</li>
 <li>Trattamenti discussi con Lei, con spiegazioni chiare su costi, aspettative, soluzioni alternative e tempi</li>
@@ -52,7 +52,7 @@ Allo 045-597936 <strong>puo&#8217; prenotare gia&#8217; ora</strong> una visita 
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4-->
+</form> <p></p><!-- End shortcoder v4.1.7-->
 ]]></content:encoded>
 			</item>
 		<item>
@@ -92,7 +92,7 @@ Essendo uno studio gnatologico, possiamo estendere la nostra conoscenza dell&#82
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4--></p>
+</form> <p></p><!-- End shortcoder v4.1.7--></p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -138,7 +138,7 @@ Essendo uno studio gnatologico, possiamo estendere la nostra conoscenza dell&#82
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4-->
+</form> <p></p><!-- End shortcoder v4.1.7-->
 ]]></content:encoded>
 			</item>
 		<item>
@@ -161,7 +161,7 @@ Inoltre, intercettare un problema in fase iniziale comporta un dispendio anche e
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4-->
+</form> <p></p><!-- End shortcoder v4.1.7-->
 ]]></content:encoded>
 			</item>
 		<item>
@@ -183,7 +183,7 @@ Inoltre, intercettare un problema in fase iniziale comporta un dispendio anche e
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4-->
+</form> <p></p><!-- End shortcoder v4.1.7-->
 ]]></content:encoded>
 			</item>
 		<item>
@@ -227,7 +227,7 @@ Per sapere cos&#8217;è possibile fare nel Suo caso, è sufficiente richiedere u
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4-->
+</form> <p></p><!-- End shortcoder v4.1.7-->
 ]]></content:encoded>
 			</item>
 		<item>
@@ -258,7 +258,7 @@ Per sapere cos&#8217;è possibile fare nel Suo caso, è sufficiente richiedere u
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4-->
+</form> <p></p><!-- End shortcoder v4.1.7-->
 ]]></content:encoded>
 			</item>
 		<item>
@@ -294,7 +294,7 @@ Per sapere cos&#8217;è possibile fare nel Suo caso, è sufficiente richiedere u
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4-->
+</form> <p></p><!-- End shortcoder v4.1.7-->
 ]]></content:encoded>
 			</item>
 		<item>
@@ -318,7 +318,7 @@ Siamo uno studio gnatologico, e pertanto questo servizio è senza dubbio uno dei
 </ul>
 <p><strong>Possiamo aiutarLa.</strong></p>
 <p>Abbiamo ampia esperienza sia privata che ospedaliera con pazienti proprio come Lei, conosciamo le sue difficolta&#8217; e come risolvere i suoi problemi.</p>
-<p>Se e&#8217; affetto da questi problemi, perché non <strong>chiamarci subito</strong>? Allo 045-597936 <strong>puo&#8217; prenotare gia&#8217; ora</strong> ed avere un appuntamento in meno di 5 minuti.</p>
+<p>Se e&#8217; affetto da questi problemi, perché non <strong>chiamarci subito</strong>? <strong>Puo&#8217; prenotare gia&#8217; ora</strong> ed avere un appuntamento in meno di 5 minuti.</p>
 <h2>Benefici per Lei</h2>
 <ul>
 <li>Riduzione o scomparsa di alcuni sintomi in tempi molto brevi (spesso meno di un mese)</li>
@@ -335,7 +335,7 @@ Siamo uno studio gnatologico, e pertanto questo servizio è senza dubbio uno dei
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4--></p>
+</form> <p></p><!-- End shortcoder v4.1.7--></p>
 ]]></content:encoded>
 			</item>
 		<item>
@@ -365,7 +365,7 @@ conoscere a fondo i principi dell&#8217;occlusione dentale e della gnatologia.</
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4-->
+</form> <p></p><!-- End shortcoder v4.1.7-->
 ]]></content:encoded>
 			</item>
 	</channel>

@@ -12,11 +12,11 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Gnatologia</description>
-	<lastBuildDate>Sun, 21 Jan 2018 08:52:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Jun 2018 06:45:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.2</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
 	<item>
 		<title>Emergenza Dentale a Verona</title>
 		<link>/emergenza-dentale-a-verona/</link>
@@ -39,7 +39,7 @@
 <input name="phone" placeholder="Il suo num. telefono" type="phone"><br><br>
 <textarea name="message" placeholder="Il suo messaggio"></textarea><br><br>
 <button type="submit">Invia</button>
-</form> <p></p><!-- End shortcoder v4.1.4--></p>
+</form> <p></p><!-- End shortcoder v4.1.7--></p>
 ]]></content:encoded>
 			</item>
 	</channel>

@@ -10,9 +10,9 @@
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Gnatologia</description>
-	<lastBuildDate>Sun, 21 Jan 2018 09:01:56 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 16 Jun 2018 06:51:15 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.2</generator>
+	<generator>https://wordpress.org/?v=4.9.6</generator>
 </channel>
 </rss>
